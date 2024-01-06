@@ -4,7 +4,7 @@ Hi 👋 I'm miluski
 CS Student
 ----------
 
-I'm currently an 3rd year Computer Science student and love learning new things and programming curiosities
+I'm currently an 3rd year Computer Science student and I love learning new things and programming curiosities
 
 *   🖥️  See my portfolio at [My github profile](http://github.com/miluski)
 *   ✉️  You can contact me at [maksymilian.sowula@gmail.com](mailto:maksymilian.sowula@gmail.com)
