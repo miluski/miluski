@@ -8,7 +8,7 @@ I'm currently an 3rd year Computer Science student and I love learning new thing
 
 *   🖥️  See my portfolio at [My github profile](http://github.com/miluski)
 *   ✉️  You can contact me at [maksymilian.sowula@gmail.com](mailto:maksymilian.sowula@gmail.com)
-*   🚀  I'm currently working on [TaxiCorporation](http://github.com/miluski/TaxiCorporation)
+*   🚀  I'm currently working on private project.
 *   🧠  I'm learning React, TypeScript, next.js
   
 ### Skills 
