@@ -87,7 +87,9 @@ I'm currently an 3rd year Computer Science student and I love learning new thing
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/maksymilian-sowula/" target="blank" rel="noreferrer">
+   <picture>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksymilian sowula" height="32" width="32" />
+    </picture>
   </a>
 </p>
       
