@@ -6,67 +6,99 @@ CS Student
 
 I'm currently an 3rd year Computer Science student and I love learning new things and programming curiosities
 
-*   🖥️  See my portfolio at [My github profile](http://github.com/miluski)
+*   🖥️  See DPSK Children Day app written by me and my team at [Google Play](https://play.google.com/store/apps/details?id=com.dpsk.children.day)
 *   ✉️  You can contact me at [maksymilian.sowula@gmail.com](mailto:maksymilian.sowula@gmail.com)
 *   🚀  I'm currently working on private project.
-*   🧠  I'm learning React, TypeScript, next.js
+*   🧠  I'm learning React, Express.js and Spring Boot
   
 ### Skills 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/> 
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/> 
-  </a>
+
+<p>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        style="display: inline-block;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="42" height="42" />
+    </a>
+    <a target="_blank" href="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png"
+        style="display: inline-block;">
+        <img src="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png" alt="junit"
+            width="42" height="42" />
+    </a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="42" height="42" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="42" height="42" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+            width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+            alt="spring" width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="42" height="42" /></a>
+    <a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img
+            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="42" height="42" /></a>
+    <a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="42" height="42" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+            alt="oracle" width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase" width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+            alt="jest" width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+            alt="postman" width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="42" height="42" /></a>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+            width="42" height="42" /></a>
 </p>
                     
 ### Socials
