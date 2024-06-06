@@ -6,7 +6,7 @@ CS Student
 
 I'm currently an 3rd year Computer Science student and I love learning new things and programming curiosities
 
-*   🖥️  See DPSK Children Day app written by me and my team([weronikamazurczak](https://github.com/weronikamazurczak), [TheFilips](https://github.com/TheFilips)) at [Google Play](https://play.google.com/store/apps/details?id=com.dpsk.children.day)
+*   🖥️  See DPSK Children Day app written by me and my team([weronikamazurczak](https://github.com/weronikamazurczak), [TheFilips](https://github.com/TheFilips)) at [Google Play](https://play.google.com/store/apps/details?id=com.dpsk.children.day), [AppStore](https://apps.apple.com/pl/app/dpsk/id6479719866)
 *   ✉️  You can contact me at [maksymilian.sowula@gmail.com](mailto:maksymilian.sowula@gmail.com)
 *   🚀  I'm currently working on private project.
 *   🧠  I'm learning React, Express.js and Spring Boot
