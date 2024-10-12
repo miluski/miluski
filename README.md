@@ -1,12 +1,6 @@
 <h1>Computer Science Student</h1>
 
 👋 Hi there! I’m a fourth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Currently, I’m diving into Angular and Spring Boot to create robust and performant web apps. In the future, I plan to explore Flutter and other mobile app development technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
-<hr />
-
-*   🖥️  See DPSK Children Day app written by me and my team([weronikamazurczak](https://github.com/weronikamazurczak), [TheFilips](https://github.com/TheFilips)) at [Google Play](https://play.google.com/store/apps/details?id=com.dpsk.children.day), [AppStore](https://apps.apple.com/pl/app/dpsk/id6479719866)
-*   ✉️  You can contact me at [maksymilian.sowula@gmail.com](mailto:maksymilian.sowula@gmail.com)
-
-<hr />
 
 ## Technologies Stack
 
