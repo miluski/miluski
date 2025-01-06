@@ -1,6 +1,6 @@
 <h1>Computer Science Student</h1>
 
-👋 Hi there! I’m a fourth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Currently, I’m diving into Angular and Spring Boot to create robust and performant web apps. In the future, I plan to explore Flutter and other mobile app development technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
+👋 Hi there! I’m a fourth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
 
 ## Technologies Stack
 
@@ -93,9 +93,14 @@
 ### Frontend
 
 <p> 
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="display: inline-block;">
+    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="display: inline-block;">
       <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="42" height="42" 
+      />
+    </a>
+    <a target="_blank" href="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" style="display: inline-block;">
+      <img
+            src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" alt="flutter" width="42" height="42" 
       />
     </a>
     <a target="_blank"
