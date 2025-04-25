@@ -82,12 +82,6 @@
             alt="oracle" width="42" height="42" 
       />
     </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        style="display: inline-block;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase" width="42" height="42" 
-      />
-    </a>
 </p>
   
 ### Frontend
