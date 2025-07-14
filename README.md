@@ -1,6 +1,6 @@
 <h1>Computer Science Student</h1>
 
-👋 Hi there! I’m a fourth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
+👋 Hi there! I’m a fifth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
 
 ## Technologies Stack
 
