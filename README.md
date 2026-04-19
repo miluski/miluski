@@ -1,153 +1,74 @@
-<h1>Computer Science Student</h1>
-
-👋 Hi there! I’m a fifth-year student specializing in backend development for web and mobile applications. While my expertise lies in backend programming, I’m also comfortable with frontend technologies. Feel free to connect—I’m always eager to learn and collaborate! Have a fantastic day! 😊
-
-## Technologies Stack
-
-### Backend
+<h1>Chief Technology Officer</h1>
 
 <p>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        style="display: inline-block;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="42" height="42" 
-        />
-    </a>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-        style="display: inline-block;">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-            alt="spring" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" 
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="42" height="42" 
-      />
-    </a>
+CTO at <b>StudentBox</b> & <b>DebugOne</b>.<br/>
+Focused on building scalable systems, engineering teams, and AI-driven solutions.
 </p>
-  
+
+<p>
+I specialize in <b>software engineering problems</b>, system design, and <b>prompt engineering</b> — applying AI in production environments.
+</p>
+
+---
+
+## 🧠 Core Focus
+
+- Software Architecture & System Design  
+- Engineering Strategy & Technical Leadership  
+- Prompt Engineering & AI Integration  
+- Performance & Scalability  
+- Full-Stack Product Development  
+
+---
+
+## ⚙️ Tech Stack
+
+### Core
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="42"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="42"/>
+</p>
+
 ### Frontend
 
-<p> 
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="display: inline-block;">
-      <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" style="display: inline-block;">
-      <img
-            src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" alt="flutter" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank"
-        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        style="display: inline-block;">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;">
-      <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="display: inline-block;">
-      <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="display: inline-block;">
-      <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="display: inline-block;">
-      <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="42" height="42" 
-      />
-    </a>
-    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display: inline-block;">
-      <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="42" height="42" 
-      />
-    </a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36"/>
 </p>
-                    
-### Also you can add me at:
-                  
-                  
-<p align="left">
-    <a href="https://www.linkedin.com/in/maksymilian-sowula" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://discord.com/users/miluski" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
+
+### Additional Experience
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" height="36"/>
+</p>
+
+---
+
+## 🏢 Organizations
+
+- **[StudentBox](https://github.com/StudentBoxApp)** — Chief Technology Officer  
+- **[DebugOne](https://github.com/Debug0ne)** — Chief Technology Officer  
+
+---
+
+## 🧩 Engineering Philosophy
+
+- Build systems, not features  
+- Optimize for long-term maintainability  
+- Prefer simplicity over unnecessary abstraction  
+- Use AI as leverage, not a shortcut  
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/maksymilian-sowula">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   </a>
 </p>
